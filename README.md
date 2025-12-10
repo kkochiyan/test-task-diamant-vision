@@ -40,8 +40,7 @@
 ### Инструкция по запуску
 
 Выполните команду из **корневой папки** репозитория, передавая email-адреса как аргументы через пробел:
-
-    ```bash
+    ```
     python first_task/email_checker.py test@gmail.com example@domennotsuch.com invalid-email@test.com
     ```
 
